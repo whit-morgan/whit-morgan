@@ -11,7 +11,7 @@
  <p align="center">🌍  I'm based in Metro Atlanta </p>
  <p align="center">🖥️  See my portfolio at <a href="https://www.whitmorgan.com/">WhitMorgan.com</a></p>
  <p align="center">✉️  You can contact me at <a href="mailto:webdevwhit@gmail.com">webdevwhit@gmail.com</a></p>
- <p align="center">🚀  I'm currently working on <a href="https://github.com/whit-morgan/Baking-Buddy">Gran</a></p>
+ <p align="center">🚀  I'm currently working on <a href="https://github.com/whit-morgan/gran">Gran</a></p>
  <p align="center">🤝  I'm open to collaborating on projects that help people</p>
  <p align="center">🏕  Ask me about wilderness survival - I'm an Eagle Scout</p>
 
