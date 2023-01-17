@@ -36,6 +36,6 @@
 
 <h2 align="center">Stats</h2>
 
-<a href="http://www.github.com/whit-morgan"><img src="https://github-readme-stats.vercel.app/api?username=whit-morgan&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" width="50%" alt="whit-morgan's GitHub stats" /></a><a href="http://www.github.com/whit-morgan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=whit-morgan&stroke=ec4899&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ec4899&currStreakLabel=3382ed&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" width="50%"/></a>
+<a href="http://www.github.com/whit-morgan"><img src="https://github-readme-stats.vercel.app/api?username=whit-morgan&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" width="50%" alt="whit-morgan's GitHub stats" /></a>
 
 <p align="center"><a href="https://www.codewars.com/users/WhitMorgan/" target="_blank"><img src="https://www.codewars.com/users/WhitMorgan/badges/large"></a></p>
